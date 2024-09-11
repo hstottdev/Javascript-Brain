@@ -41,7 +41,7 @@ function declareImagePool()
     images.push("pictures/nostalgia.jpg");
     images.push("pictures/abandonment.png");
     images.push("pictures/scwabble.png");
-
+    images.push("pictures/job interview.png");
     
     return images;
 }
